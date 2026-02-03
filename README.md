@@ -1,4 +1,5 @@
 # SIDEMADE - Simple Dense Matrix Decomposition
+[![SIDEMADE CI/CD](https://github.com/feegeer/testing-boost-exercise/actions/workflows/ci.yml/badge.svg)](https://github.com/feegeer/testing-boost-exercise/actions/workflows/ci.yml)
 
 A simple demo code to read dense matrices from files and solve linear systems with them.
 
